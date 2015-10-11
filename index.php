@@ -3,7 +3,7 @@
 <body>
 
 <?php echo
-	"nim - nama";
+	"10113069 - nama";
 ?>
 </body>
 </html>
